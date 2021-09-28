@@ -26,4 +26,3 @@ carry = False
 
 memory = np.empty((256,256))
 
-print(memory)
