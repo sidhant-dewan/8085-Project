@@ -19,7 +19,7 @@ PC = 0
 sign = False
 zero = False
 aux_carry = False
-Parity = False
+parity = False
 carry = False
 
 # Memory
